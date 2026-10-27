@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleName</key><string>熊猫图库</string>
+  <key>CFBundleDisplayName</key><string>熊猫图库</string>
+  <key>CFBundleExecutable</key><string>PandaGallery</string>
+  <key>CFBundleIdentifier</key><string>local.pandagallery.mac</string>
+  <key>CFBundleShortVersionString</key><string>1.1.1</string>
+  <key>CFBundleVersion</key><string>3</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>LSMinimumSystemVersion</key><string>14.0</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSPrincipalClass</key><string>NSApplication</string>
+  <key>NSSupportsAutomaticGraphicsSwitching</key><true/>
+  <key>NSHumanReadableCopyright</key><string>© 2026 熊猫图库</string>
+  <key>CFBundleDocumentTypes</key><array><dict>
+    <key>CFBundleTypeName</key><string>图片</string>
+    <key>CFBundleTypeRole</key><string>Viewer</string>
+    <key>LSHandlerRank</key><string>Alternate</string>
+    <key>LSItemContentTypes</key><array>
+      <string>public.image</string><string>public.jpeg</string><string>public.png</string>
+      <string>public.heic</string><string>public.heif</string><string>public.tiff</string>
+      <string>com.compuserve.gif</string><string>org.webmproject.webp</string>
+      <string>com.microsoft.bmp</string><string>public.camera-raw-image</string>
+      <string>public.avif</string><string>public.jpeg-xl</string>
+    </array>
+  </dict></array>
+</dict></plist>

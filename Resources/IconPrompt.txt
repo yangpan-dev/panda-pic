@@ -1,0 +1,6 @@
+Tool: built-in image_gen.imagegen (edit)
+Final application name: 熊猫图库 / Panda Gallery
+Output: PandaGallery.png, transparent background
+Reference: previous mint panda icon, replaced at the user's request to include photography elements.
+
+Use case: precise-object-edit / logo-brand. Edit the provided icon for the macOS photo viewer 熊猫图库 (Panda Gallery). Preserve the friendly panda identity, soft mint rounded square tile, warm ivory face, dark forest-black ears and eye patches, polished simple software icon style. Make the IMAGE GALLERY concept unmistakable: remove the white play triangle entirely and replace that eye with a normal friendly panda eye matching the other eye. Integrate a clean miniature landscape photograph card across the panda's lower right cheek/chin, held subtly by one black panda paw. The photo card is about 36 percent of the icon width: a white rounded rectangular photo frame containing two stylized dark-green mountain peaks, a mint/teal sky and a small warm yellow sun. Keep the panda face fully recognizable and the card highly readable at small size. Refine outer silhouette to be perfectly clean with no speckles, no noise, no stray marks. One square app icon only, no text, no letters, no mockup, no play symbols. Keep actual transparency outside the rounded square tile.
